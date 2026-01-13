@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "SSLC Full Course 2026",
+      "description": "Complete SSLC course with videos, notes and mock tests.",
+      "price": "₹999",
+      "tag": "Popular"
+    },
+    {
+      "id": 2,
+      "title": "PUC Science Crash Course",
+      "description": "Quick revision, important questions and tests.",
+      "price": "₹799",
+      "tag": "New"
+    },
+    {
+      "id": 3,
+      "title": "Math Mastery SSLC",
+      "description": "Math topic-wise practice and model papers.",
+      "price": "₹499",
+      "tag": "Best Value"
+    }
+  ]
+}
